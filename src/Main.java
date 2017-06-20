@@ -5,7 +5,8 @@ import javax.swing.JFrame;
  * @author lizzy
  */
 public class Main {
-
+// this is a test to see if the git backup is working
+    
     /**
      * @param args the command line arguments
      */
